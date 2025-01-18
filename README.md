@@ -14,9 +14,7 @@ This repository contains my personal notes and summaries from the book *Think St
 
 ## Repository Structure
 
-- **`notes/`**: My personal notes, broken down by chapters and topics.
-- **`exercises/`**: Solutions and explanations for exercises from the book.
-- **`examples/`**: Code examples and visualizations to demonstrate statistical concepts.
+- **`notes/`**: My personal notes in the form of Jupyter notebooks, organized by chapters and topics.
 
 ## Purpose
 
