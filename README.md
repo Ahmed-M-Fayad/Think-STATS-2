@@ -1,4 +1,4 @@
-# Think Stats 2 - Personal Notes
+# Think Stats 2
 
 This repository contains my personal notes and summaries from the book *Think Stats 2* by Allen B. Downey. The notes cover a variety of topics in statistics, probability, and data analysis, helping to simplify complex statistical methods and concepts.
 
@@ -14,17 +14,14 @@ This repository contains my personal notes and summaries from the book *Think St
 
 ## Repository Structure
 
-- **`notes/`**: My personal notes in the form of Jupyter notebooks, organized by chapters and topics.
-
-## Purpose
-
-These notes are intended for anyone who wants to deepen their understanding of statistics and its applications. Whether you are a student, a data enthusiast, or just looking to learn more about statistics, these notes provide a clear and practical overview of the material.
+- **`RequiredMaterial/`**: This directory contains the material required to run the code examples and exercises in the notebooks. It includes datasets, test cases, and Python modules referenced in the notebooks.
 
 ## How to Use
 
-1. Browse through the notes for a specific topic or chapter.
-2. Review the examples and exercises to apply the concepts learned.
-3. Feel free to fork the repository and contribute if you find any areas for improvement!
+1. Browse through the notebooks to find the topic or chapter you want to explore.
+2. **Important**: To execute the code in the notebooks, move the notebooks to the `RequiredMaterial` directory before running them. This ensures that system paths are correctly set and avoids import errors related to Python modules and datasets.
+3. Review the examples and exercises in the notebooks to apply the concepts learned.
+4. Feel free to fork the repository and contribute if you find any areas for improvement!
 
 ## License
 
